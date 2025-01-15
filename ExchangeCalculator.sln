@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeCalculator.ConsoleApp", "ExchangeCalculator.ConsoleApp\ExchangeCalculator.ConsoleApp.csproj", "{039EB6A6-6B9B-4F3E-8BF4-E3B5DC86B37E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeCalculator.Tests", "ExchangeCalculator.Tests\ExchangeCalculator.Tests.csproj", "{C327CF4A-6B4A-455F-8D9D-F3F0DD128A11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeCalculator.Data", "ExchangeCalculator.Data\ExchangeCalculator.Data.csproj", "{1CCC804D-61E8-4D39-9BCC-3587AAE3F61A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{039EB6A6-6B9B-4F3E-8BF4-E3B5DC86B37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039EB6A6-6B9B-4F3E-8BF4-E3B5DC86B37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039EB6A6-6B9B-4F3E-8BF4-E3B5DC86B37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039EB6A6-6B9B-4F3E-8BF4-E3B5DC86B37E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C327CF4A-6B4A-455F-8D9D-F3F0DD128A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C327CF4A-6B4A-455F-8D9D-F3F0DD128A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C327CF4A-6B4A-455F-8D9D-F3F0DD128A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C327CF4A-6B4A-455F-8D9D-F3F0DD128A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CCC804D-61E8-4D39-9BCC-3587AAE3F61A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CCC804D-61E8-4D39-9BCC-3587AAE3F61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CCC804D-61E8-4D39-9BCC-3587AAE3F61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CCC804D-61E8-4D39-9BCC-3587AAE3F61A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
